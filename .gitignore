@@ -1,0 +1,5 @@
+/.idea/
+/target/
+/project/target/
+/result.txt
+/src/test/resources/input/*/result.txt
